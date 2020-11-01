@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Police</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_map">Map</string>
+    <string name="menu_account">Account</string>
+    <string name="title_activity_maps">Map</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="open_in_map">Open in Map</string>
+    <string name="pay_attention">PAY ATTENTION!</string>
+    <string name="emergency_name">Emergency Here</string>
+    <string name="text_location">Osu Oxford Street</string>
+    <string name="urgency_type">Important</string>
+    <string name="follow_up">Follow up</string>
+    <string name="nav_header_title">Guest</string>
+    <string name="page_title">Dalilu Police</string>
+    <string name="navigation_drawer_open">open</string>
+    <string name="navigation_drawer_close">close</string>
+</resources>
